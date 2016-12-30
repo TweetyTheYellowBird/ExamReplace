@@ -1,0 +1,3 @@
+txt|xml
+%a%=bbb
+%c%=ddd
